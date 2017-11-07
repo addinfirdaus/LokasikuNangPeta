@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Data Pelanggan</string>
+        <string-array name="kategori1">
+            <item>Rungkut</item>
+            <item>Wonokromo</item>
+            <item>Jambangan</item>
+        </string-array>
+</resources>
